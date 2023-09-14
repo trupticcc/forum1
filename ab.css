@@ -1,0 +1,69 @@
+#sr{
+    background-image:linear-gradient(rgba(6, 6, 6, 0.5),#eb66e5f3),url("https://tse1.mm.bing.net/th?id=OIP.0IDWql9NyvVo1R4DXll_jgHaDt&pid=Api&rs=1&c=1&qlt=95&w=229&h=114");
+    background-position: center;
+    background-size: cover;
+    height:150vh;
+    
+    }
+    
+    .ab{
+    
+        margin-top: 0;
+        margin-left:0;
+        margin-right:0;
+        height:50px;
+        background-color: black;
+        
+        
+    }
+    .ab h1{
+        padding:10px;
+        text-align: center;
+        color:white;
+        font-size:35px;
+    }
+    h1{
+    
+        text-align: center;
+    }
+    
+    .name 
+    {
+    margin:50px;
+    text-align:center;
+    color:aliceblue;
+    }
+    .kl p{
+     font-size: 20px;
+    }
+    .desc p{
+        cursor:pointer;
+        font-size:35px;
+        font-style:italic;
+    }
+    .year{
+        font-size: 20px;
+    
+    }
+    .num{
+        cursor:pointer;
+        font-size:35px;
+        font-style:italic;
+    }
+    .num1{
+        cursor:pointer;
+        font-size:35px;
+        font-style:italic;
+    }
+       .as{
+        font-size:20px;
+    }
+    .motive{
+        font-size:5px;
+    }
+    .text{
+        cursor:pointer;
+        font-size:5px;
+        font-style: italic;
+    }
+    
